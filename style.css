@@ -1,0 +1,42 @@
+*{
+    border: 0px;  
+    margin: 0px;
+
+
+
+}
+
+
+
+
+
+
+body {
+    background-color: lightgreen;
+    color: blue;
+}
+
+
+
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    font-size: 75px;
+
+    text-align: center;
+  background-color: grey;
+    padding: 20px
+
+
+
+}
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+button {
+padding: 2px;
+position:relative;
+left: 690px
+}
